@@ -1,0 +1,37 @@
+{"projects": [
+    {
+        "starterTask": "Gather Players:", 
+        "objective": "Find players to complete a group",
+        "photoURL":"https://images.squarespace-cdn.com/content/v1/5d93b44c542e4e299451cbdb/1588362741965-33OJ1YRJQAMDXML82OCU/partycomp3.jpg?format=1500w",
+        "howToURL": "https://www.thedndcoalition.com/dnd-blog/creating-a-balanced-party"
+    }, 
+
+{
+        "starterTask": "Choose a Dungeon Master:", 
+        "objective": "Decide who will be the DM for the campaign",
+        "photoURL":"https://www.dicedragons.co.uk/cdn/shop/articles/dungeon-masters-guide_06228f3e-5978-4a43-ba12-f5985c931103.jpg?v=1704229046&width=1100",
+        "howToURL": "https://www.dicedragons.co.uk/blogs/tabletop-tips/how-to-become-a-better-dm"
+    }, 
+
+    {
+        "starterTask": "Create Characters:", 
+        "objective": "Each person must create a completed character to play as",
+        "photoURL":"https://www.dndbeyond.com/avatars/thumbnails/6/340/420/618/636272677995471928.png",
+        "howToURL": "https://www.dndbeyond.com/characters?gad_source=1&gclid=CjwKCAjwte-vBhBFEiwAQSv_xVZz1mb2tkn0RryiZfRc00TwKXAbx5bR7qW9FNK_9Sh2FbrV4kOSRhoCwlEQAvD_BwE"
+    }, 
+
+    {
+        "starterTask": "Prepare a campaign or adventure:", 
+        "objective": "DM prepares the adventure the other players are embarking on.",
+        "photoURL":"https://1.bp.blogspot.com/-zrDqDfVhKn4/YXhTDVdpdVI/AAAAAAAAHO8/FNmAeCGvGvM4EQdNb_aqgXsEG6NDUwboQCPcBGAYYCw/s2000/wotc%2Bcovers.jpg",
+        "howToURL": "https://www.dndbeyond.com/intro?gad_source=1&gclid=CjwKCAjwte-vBhBFEiwAQSv_xeWYNfOPCGUyAUNdJZit9s3p2pgLX93SFzZXOnvPQC1RNzjPFeMylRoC9nQQAvD_BwE"
+    }, 
+
+    {
+        "starterTask": "Schedule first session:", 
+        "objective": "find a time that works for everyone to start and then meet regularly.",
+        "photoURL":"https://content.instructables.com/FCH/KJG2/JOONXG8C/FCHKJG2JOONXG8C.jpg?auto=webp",
+        "howToURL": "https://dndcommunity.com/dnd-scheduling-tips/"
+    } 
+]
+}
